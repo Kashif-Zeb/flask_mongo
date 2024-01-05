@@ -1,0 +1,36 @@
+{
+    "DonationID": 18,
+    "DonationDate": "2023-11-26",
+    "BloodType": "AB-",
+    "DonationStatus": "Approved",
+    "HemoglobinLevel": "23 g/dl",
+    "donors": [
+        {
+            "DonorID": 56,
+            "FirstName": "imad ",
+            "LastName": "khan",
+            "Address": "mardan",
+            "BloodType": "AB-",
+            "Gender": "Male",
+            "DateOfBirth": "1995-12-30",
+            "Email": "imad@gmail.com",
+            "ContactNumber": "03155252428"
+        }
+    ],
+    "bloodbanks": [
+        {
+            "BloodBankID": 2,
+            "BloodBankName": "shifa foundation peshawar",
+            "Location": "peshawar hastnaghari",
+            "Email": "shifapeshawar@gmail.com",
+            "ContactNumber": "03170099092"
+        },
+        {
+            "BloodBankID": 4,
+            "BloodBankName": "shifa foundation islamabad",
+            "Location": "islamabad F7",
+            "Email": "shifaislamabad@gmail.com",
+            "ContactNumber": "03170099093"
+        }
+    ]
+}
